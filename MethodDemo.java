@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class MethodDemo {
     public static void main(String[] args) {
 public static void greet() {
@@ -33,3 +34,6 @@ public class MethodDemo {
 
     }
 }
+=======
+
+>>>>>>> 887bc092a2a56c47dcccdcf7612b0b5caab48fb2
